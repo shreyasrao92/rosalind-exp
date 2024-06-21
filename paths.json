@@ -1,0 +1,6 @@
+{
+  "mappings": [
+    "/content/eds-react-demo/:/",
+    "/content/eds-react-demo:/.helix/config.json"
+  ]
+}
